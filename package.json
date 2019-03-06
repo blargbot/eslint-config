@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-blargbot",
+  "name": "@blargbot/eslint-config-blargbot",
   "version": "1.0.0",
   "description": "eslint config for blargbot",
   "main": "index.js",
