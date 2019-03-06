@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-blargbot",
+  "version": "1.0.0",
+  "description": "eslint config for blargbot",
+  "main": "index.js",
+  "repository": "https://github.com/blargbot/eslint-config",
+  "author": "stupid cat <cat@blargbot.xyz>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "eslint": ">= 5"
+  }
+}
