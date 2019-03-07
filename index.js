@@ -21,9 +21,5 @@ module.exports = {
     'brace-style': ['error', '1tbs', {
       allowSingleLine: true
     }],
-
-    // vue
-    'vue/max-attributes-per-line': 'off',
-    'vue/html-indent': ['error', 'tab']
   }
 }
