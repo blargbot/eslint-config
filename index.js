@@ -9,7 +9,6 @@ module.exports = {
   },
 
   rules: {
-    // js
     'strict': 'error',
     'semi': 'error',
     'indent': ['error', 'tab'],
